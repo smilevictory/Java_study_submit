@@ -1,4 +1,4 @@
-package basic.cho4.sec02;
+package basic.ch04.sec02;
 
 import java.util.Random;
 
