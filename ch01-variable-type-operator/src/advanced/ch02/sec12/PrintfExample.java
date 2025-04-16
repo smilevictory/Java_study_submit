@@ -13,6 +13,6 @@ public class PrintfExample {
 
         String name = "홍길동";
         String job = "도적";
-        System.out.printf(" %d|%s |\n", 1, name, job);
+        System.out.printf(" %d|%s | %s\n", 1, name, job);
     }
 }
