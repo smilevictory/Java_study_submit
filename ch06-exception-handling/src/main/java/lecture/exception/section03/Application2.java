@@ -25,7 +25,7 @@ public class Application2 {
             while ((s = in.readLine()) != null){
                 System.out.println(s);
             }
-            System.out.println("정상 돟작함~");
+            System.out.println("정상 동작함~");
 
             // catch 블럭을 여러개 작성할 때
             // 상위 타입이 하단에 오고
