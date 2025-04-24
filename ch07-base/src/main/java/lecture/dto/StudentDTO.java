@@ -8,7 +8,7 @@ import lombok.*;
 
 @NoArgsConstructor // 매개변수없는 생성자
 @AllArgsConstructor // 모든 필드를 매개변수로 받는 생성자
-@RequiredArgsConstructor // -> final, notnull 이 붙은 필드가 있으면 필수적으로 이 필드만 초기화 시키는 생성자
+//@RequiredArgsConstructor // -> final, notnull 이 붙은 필드가 있으면 필수적으로 이 필드만 초기화 시키는 생성자
 //@ToString // 오버라이딩
 @Getter
 @Setter
